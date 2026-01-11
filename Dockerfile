@@ -18,9 +18,6 @@ COPY . .
 # Create data directories
 RUN mkdir -p data/documents data/faiss_index
 
-# Copy sample documents
-COPY data/documents/* data/documents/ 2>/dev/null || true
-
 # Set environment variables
 ENV LLM_PROVIDER=huggingface
 ENV EMBEDDING_PROVIDER=huggingface
