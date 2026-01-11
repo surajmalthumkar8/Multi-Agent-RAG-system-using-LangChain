@@ -1,0 +1,100 @@
+Account Settings Guide
+======================
+
+Profile Settings
+----------------
+
+Updating Your Profile
+1. Navigate to Settings > Profile
+2. Click "Edit Profile"
+3. Update your information:
+   - Display name
+   - Profile picture (max 5MB, JPG/PNG format)
+   - Bio (up to 500 characters)
+   - Time zone
+   - Language preference
+4. Click "Save Changes"
+
+Changing Your Email Address
+1. Go to Settings > Account > Email
+2. Enter your new email address
+3. Enter your current password for verification
+4. Click "Update Email"
+5. Check your new email for a verification link
+6. Click the verification link within 48 hours
+Note: Your old email will receive a notification about the change.
+
+Security Settings
+-----------------
+
+Two-Factor Authentication (2FA)
+We strongly recommend enabling 2FA for additional security.
+
+To enable 2FA:
+1. Go to Settings > Security > Two-Factor Authentication
+2. Choose your 2FA method:
+   - Authenticator app (recommended): Google Authenticator, Authy, etc.
+   - SMS: Receive codes via text message
+3. Follow the setup instructions
+4. Save your backup codes in a secure location
+
+Session Management
+- View all active sessions at Settings > Security > Active Sessions
+- Click "Sign Out" next to any session to end it
+- Use "Sign Out All Devices" for security emergencies
+
+Login History
+- View your login history at Settings > Security > Login History
+- Shows date, time, location, and device for each login
+- Suspicious logins are flagged automatically
+
+Notification Settings
+--------------------
+
+Email Notifications
+Customize which emails you receive at Settings > Notifications > Email:
+- Account alerts (security, billing) - Always enabled for security
+- Product updates and news
+- Tips and tutorials
+- Marketing and promotions
+
+Push Notifications
+For mobile app users, manage push notifications at:
+Settings > Notifications > Push Notifications
+- Instant messages
+- Activity updates
+- Reminders
+
+Privacy Settings
+----------------
+
+Data Visibility
+Control who can see your information:
+- Profile visibility: Public, Private, or Contacts Only
+- Activity status: Show when you're online
+- Read receipts: Show when you've read messages
+
+Data Export
+Download your data at Settings > Privacy > Download My Data
+- Includes all your content and account information
+- Available in JSON or CSV format
+- Processing takes up to 48 hours
+
+Account Deletion
+To permanently delete your account:
+1. Go to Settings > Account > Delete Account
+2. Read the information about what will be deleted
+3. Enter your password
+4. Type "DELETE" to confirm
+5. Click "Permanently Delete Account"
+Note: This action cannot be undone. All data is deleted within 30 days.
+
+Connected Apps
+--------------
+
+Managing Third-Party Access
+View and manage connected applications at Settings > Connected Apps:
+- See which apps have access to your account
+- Review permissions for each app
+- Revoke access by clicking "Disconnect"
+- Connected apps lose access immediately when disconnected

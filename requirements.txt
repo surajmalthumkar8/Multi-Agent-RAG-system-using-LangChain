@@ -1,0 +1,46 @@
+# Multi-Agent RAG System Dependencies
+# =====================================
+
+# Core AI Framework
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-text-splitters>=0.0.1
+
+# Free LLM Providers
+langchain-huggingface>=0.0.1
+langchain-google-genai>=0.0.5
+langchain-groq>=0.0.1
+
+# For local embeddings (free)
+sentence-transformers>=2.2.0
+
+# Vector Store
+faiss-cpu>=1.7.4
+
+# Embeddings (using OpenAI)
+openai>=1.10.0
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Data Validation
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Document Processing
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# Utilities
+tiktoken>=0.5.0
+httpx>=0.26.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.23.0

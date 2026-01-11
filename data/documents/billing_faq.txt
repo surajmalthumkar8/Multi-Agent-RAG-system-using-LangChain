@@ -1,0 +1,75 @@
+Billing and Payments FAQ
+========================
+
+General Billing Questions
+-------------------------
+
+Q: When will I be charged?
+A: Charges occur on the same date each month that you signed up. For example, if you subscribed on the 15th, you'll be charged on the 15th of each subsequent month.
+
+Q: What payment methods do you accept?
+A: We accept the following payment methods:
+- Credit cards (Visa, MasterCard, American Express, Discover)
+- Debit cards with Visa/MasterCard logo
+- PayPal
+- Bank transfers (for annual enterprise plans)
+
+Q: How do I update my payment method?
+A: To update your payment method:
+1. Log into your account
+2. Go to Settings > Billing
+3. Click "Payment Methods"
+4. Add a new payment method or edit existing ones
+5. Set your preferred default payment method
+
+Q: Can I get a refund?
+A: We offer refunds under the following conditions:
+- Within 14 days of initial purchase for new customers
+- Within 7 days for plan upgrades
+- No refunds for plan downgrades (credited towards future billing)
+- Pro-rated refunds for annual plans canceled mid-term
+
+Subscription Management
+-----------------------
+
+Q: How do I cancel my subscription?
+A: To cancel your subscription:
+1. Go to Settings > Billing > Subscription
+2. Click "Cancel Subscription"
+3. Select your cancellation reason
+4. Confirm cancellation
+Your access continues until the end of the current billing period.
+
+Q: How do I upgrade or downgrade my plan?
+A: Plan changes take effect immediately:
+- Upgrades: You're charged a pro-rated amount for the remainder of the billing cycle
+- Downgrades: Credit is applied to your next billing cycle
+
+Q: What happens if my payment fails?
+A: If a payment fails:
+1. You'll receive an email notification
+2. We'll retry the payment in 3 days
+3. If it fails again, we'll retry in 7 days
+4. After 14 days of failed payments, your account may be suspended
+5. Contact support to resolve payment issues
+
+Invoice and Receipts
+--------------------
+
+Q: How do I get an invoice?
+A: Invoices are automatically sent to your email after each payment. You can also:
+1. Go to Settings > Billing > Invoice History
+2. Click on any invoice to view or download
+3. Invoices are available in PDF format
+
+Q: How do I add my company details to invoices?
+A: To add company billing information:
+1. Go to Settings > Billing > Billing Information
+2. Enter your company name, address, and tax ID
+3. Save changes - this will apply to future invoices
+
+Contact Billing Support
+-----------------------
+Email: billing@example.com
+Phone: 1-800-555-0123 (Mon-Fri, 9 AM - 5 PM EST)
+Chat: Available 24/7 for Premium and Enterprise customers
